@@ -4,12 +4,7 @@ API para administrar tareas personales con operaciones completas de creación,
 consulta, actualización y eliminación, desarrollada con Python, Flask y MySQL.
 
 ---
-
-## Integrantes del equipo
-
--
--
-
+# Ángel Gabriel Rojas Hernánadez
 ---
 
 ## Requisitos previos
